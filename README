@@ -4,8 +4,8 @@ Problem
 Princess Peach is trapped in one of the four corners of a square grid. You are in the center of the grid and can move one step at a time in any of the four directions.
 Save the princess
 
-git clone
-cd path_to_princess
+git clone https://github.com/vivdash/bot_saves_princess.git
+cd bot_saves_princess
 ruby main.rb
 
 Enter BattleField size between 3 and 100.
@@ -18,3 +18,8 @@ Enter '-', bot and princess position for BattleField.
 Output
 RIGHT
 DOWN
+
+To run spec
+git clone https://github.com/vivdash/bot_saves_princess.git
+cd bot_saves_princess
+rspec spec/bot_saves_princess_spec.rb 
