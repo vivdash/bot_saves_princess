@@ -5,7 +5,7 @@ Princess Peach is trapped in one of the four corners of a square grid. You are i
 Save the princess
 
 git clone https://github.com/vivdash/bot_saves_princess.git
-cd bot_saves_princess
+cd bot_saves_princess/lib
 ruby main.rb
 
 Enter BattleField size between 3 and 100.
